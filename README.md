@@ -10,7 +10,7 @@ Minecraft Plugin - Configure social Links
 
 • Testing: True (BETA)
 
-• Minecraft Spigot/Bukkit Version: 1.8
+• Minecraft Spigot/Bukkit Version: 1.12
 
 • Release Date: (Not Released)
 
